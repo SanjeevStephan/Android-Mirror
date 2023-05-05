@@ -1,4 +1,4 @@
-# scrcpy (v2.0)
+# Mobile Mirror (v2.0)
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
