@@ -1,6 +1,6 @@
 # Mobile Mirror (v2.0)
 
-<img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
+<img src="assets/logo/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
 _pronounced "**smart**phone **mirror**"_
 
@@ -9,7 +9,7 @@ USB or [over TCP/IP](doc/device.md#tcpip-wireless), and allows to control the
 device with the keyboard and the mouse of the computer. It does not require any
 _root_ access. It works on _Linux_, _Windows_ and _macOS_.
 
-![screenshot](assets/screenshot-debian-600.jpg)
+![screenshot](assets/screenshots/screenshot-debian-600.jpg)
 
 It focuses on:
 
