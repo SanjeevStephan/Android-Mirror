@@ -31,9 +31,6 @@ _root_ access. It works on _Linux_, _Windows_ and _macOS_.
 |            .:---    ==-=.           Create Console to Display and Controls the Android Devices    |
 |---------------------------------------------------------------------------------------------------|
 ```
-
-![screenshot](assets/screenshots/screenshot-debian-600.jpg)
-
 It focuses on:
 
  - **lightness**: native, displays only the device screen
