@@ -1,13 +1,4 @@
 # Android Mirror (v2.0)
-
-<img src="assets/logo/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
-
-_pronounced "**smart**phone **mirror**"_
-
-This application mirrors Android devices (video and audio) connected via
-USB or [over TCP/IP](doc/device.md#tcpip-wireless), and allows to control the
-device with the keyboard and the mouse of the computer. It does not require any
-_root_ access. It works on _Linux_, _Windows_ and _macOS_.
 ```
 |---------------------------------------------------------------------------------------------------| 
 |             .          .                                                                          |
@@ -31,6 +22,14 @@ _root_ access. It works on _Linux_, _Windows_ and _macOS_.
 |            .:---    ==-=.           Create Console to Display and Controls the Android Devices    |
 |---------------------------------------------------------------------------------------------------|
 ```
+<img src="assets/logo/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
+
+_pronounced "**smart**phone **mirror**"_
+
+This application mirrors Android devices (video and audio) connected via
+USB or [over TCP/IP](doc/device.md#tcpip-wireless), and allows to control the
+device with the keyboard and the mouse of the computer. It does not require any
+_root_ access. It works on _Linux_, _Windows_ and _macOS_.
 It focuses on:
 
  - **lightness**: native, displays only the device screen
