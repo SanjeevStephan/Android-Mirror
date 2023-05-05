@@ -2,7 +2,7 @@
 
 <img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
-_pronounced "**scr**een **c**o**py**"_
+_pronounced "**smart**phone **mirror**"_
 
 This application mirrors Android devices (video and audio) connected via
 USB or [over TCP/IP](doc/device.md#tcpip-wireless), and allows to control the
