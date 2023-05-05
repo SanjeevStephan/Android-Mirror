@@ -1,4 +1,4 @@
-# Mobile Mirror (v2.0)
+# Android Mirror (v2.0)
 
 <img src="assets/logo/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
 
